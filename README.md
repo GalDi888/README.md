@@ -4,4 +4,4 @@ I am student in Netology
 
 everything will work out
 
-Inisial comit
+Commit 1
